@@ -5,7 +5,7 @@
 
 <br>
 
-## Our Project
+## Our project
 <a href="https://github.com/kit-ApplePi/Smart-Fan">
   <p align="center">
       <img src="https://github.com/user-attachments/assets/6e9c6aea-2022-4481-916c-0083d1066ad0">
