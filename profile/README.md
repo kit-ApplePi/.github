@@ -1,11 +1,11 @@
 # TEAM ApplePi
 
-## Lecture
+## 🏫 Lecture
 `임베디드시스템-CD0030-02`
 
 <br>
 
-## Our project
+## 📋 Our project
 <a href="https://github.com/kit-ApplePi/Smart-Fan">
   <p align="center">
       <img src="https://github.com/user-attachments/assets/6e9c6aea-2022-4481-916c-0083d1066ad0">
@@ -15,7 +15,7 @@
 
 <br>
 
-## Members
+## 👨‍💻 Members
 <table>
   <td align="center">
     <a href="https://github.com/seongjxn">
